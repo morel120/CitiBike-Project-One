@@ -16,6 +16,7 @@ In looking at the data, it's clear that the main users of CitiBike are men, who 
 Conclusion
 
 In conclusion, my examination of CitiBike's data has revealed valuable insights that can be leveraged to optimize market performance. By strategically tapping into non-peak hours and tailoring our approach to include a more diverse audience, we have the potential to address existing market gaps. Recommending the introduction of varied pricing structures, such as potential discounts during off-peak hours and inclusive marketing strategies targeting women and other genders, aims to ensure a comprehensive and accessible service. I was able to answer the questions I sought out to answer and I believe I found these gaps in the market that would increase profit and inclusion.
+
 Data Source
 
 https://s3.amazonaws.com/tripdata/index.html
