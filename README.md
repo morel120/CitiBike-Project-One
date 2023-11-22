@@ -1,5 +1,8 @@
 # CitiBike-Project-One
 Jon Morel Project 1 
+Overview
+
+Using my CitiBike data, I attempted to discover potential gaps in their bike rental business. The data I used comes from the Des Moines, New York CitiBike Data. In order to accomplish this task, I needed to identify the relevant information from the publicly available Citi Bike data that was applicable to Des Moines. I utilized the data from August 2019 for this purpose. With the data, I used Tableau to create visualizations from the data from the CitiBike data.
 
 Findings
 
